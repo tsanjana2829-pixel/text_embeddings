@@ -1,0 +1,11 @@
+Pair,Sentence 1,Sentence 2,Cosine Similarity
+Pair 1,Artificial intelligence is transforming the healthcare industry.,Artificial intelligence is changing modern medicine.,0.8038
+Pair 2,Machine learning helps computers learn from data.,Machine learning algorithms can analyze large datasets.,0.6805
+Pair 3,Electric vehicles are becoming popular around the world.,Electric cars can reduce air pollution.,0.595
+Pair 4,Climate change is affecting the environment.,Global warming is causing changes in weather patterns.,0.7633
+Pair 5,The government introduced a new education policy.,A new policy was announced to improve education.,0.8764
+Pair 6,Students use online platforms for learning.,Online learning provides flexible educational opportunities.,0.7051
+Pair 7,Scientists discovered a new planet in a distant galaxy.,Researchers found a previously unknown planet.,0.7615
+Pair 8,The football team won the championship.,The team celebrated after winning the football match.,0.6313
+Pair 9,The stock market increased significantly today.,Share prices rose in the financial market.,0.6827
+Pair 10,Technology has changed the way people communicate.,Social media has changed human communication.,0.7802
